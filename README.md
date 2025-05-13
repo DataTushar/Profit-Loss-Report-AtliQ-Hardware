@@ -1,4 +1,4 @@
-# 🚀 **AtliQ Hardware Sales & Performance Report** 📊
+# 🚀 **AtliQ Hardware Profit & LossReport** 📊
 
 ## 🔍 **Overview**
 This repository contains the **AtliQ Hardware Sales & Performance Report**, created using **Excel**. The report provides insights into **customer net sales performance, market performance vs. target, profit and loss (P&L) analysis, and gross margin trends** across different years and regions.
