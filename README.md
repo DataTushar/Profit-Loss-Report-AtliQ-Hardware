@@ -44,11 +44,6 @@ This repository contains the **AtliQ Hardware Sales & Performance Report**, crea
 
 ---
 
-## ⚡ **Getting Started**
-To use this report effectively:
-1️⃣ **Download** the Excel file.  
-2️⃣ **Open** with any spreadsheet software (**Excel, Google Sheets, etc.**).  
-3️⃣ **Analyze trends** using filters and pivot tables.
 
 ---
 
